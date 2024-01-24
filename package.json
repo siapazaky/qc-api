@@ -35,8 +35,8 @@
     "object-sizeof": "^1.6.0",
     "node-fetch": "^2.6.4",
     "runes": "^0.4.3",
-    "sharp": "^0.31.3",
-    "smartcrop-sharp": "^2.0.7",
+    "sharp": "^0.33.2",
+    "smartcrop-sharp": "^2.0.8",
     "telegraf": "^3.38.0"
   },
   "devDependencies": {
